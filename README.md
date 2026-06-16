@@ -1,2 +1,28 @@
-# a7a93bcc-print--publishing-customer-feedback-and
-Collect feedback, vote on features, track implementation, and close the loop. ProductBoard alternative at zero monthly cost.
+# Print & Publishing Customer Feedback and Feature Request Board Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm8wPbHh1g01de5bud003S)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm8wPbHh1g01de5bud003S)
+
